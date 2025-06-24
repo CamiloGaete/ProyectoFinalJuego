@@ -20,7 +20,7 @@ import java.util.function.Supplier;
  * 
  * SOLID Principles:
  * - Single Responsibility: Coordina la lógica del juego
- * - Dependency Inversion: Depende de abstracciones
+ * - Dependencya Inversion: Depende de abstracciones
  * - Open/Closed: Extensible para nuevas funcionalidades
  * 
  * Conceptos a implementar:
